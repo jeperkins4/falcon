@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Falcon::Application.config.secret_key_base = '724edeb825679c1b8345d5e696a7ddc72e9839b7e1770e6bc1ab22d1735fd7199198b40825e609292d808c459c59050ce9deb72f9699a29eaae8a738a2d24b47'
+Falcon::Application.config.secret_key_base = '3343893993c25bc6b39bf238e38aaa6d9d686545c4f77c71e16b467b59ea53cbd15a7c9614ff329c03450e6e3d76d9e897b370390690bbf44f3d81ae85ffd6e3'
